@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-My name is Heng TeckLeng, today is 30 March, Age 38
-=======
-My name is Heng TeckLeng, today is 30 March. NO big tr
->>>>>>> 69635d4 (add trouble to newfile2.txt)
+My name is Heng TeckLeng, today is 30 March. NO big trouble
