@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 My name is Heng TeckLeng, today is 30 March. NO big TROUBLE
+=======
+My name is Heng TeckLeng, today is 30 March. NO big trouble
+added address1
+>>>>>>> 28d41e1 (local: updating newfile2 add address)
